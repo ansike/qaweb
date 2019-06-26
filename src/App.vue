@@ -6,6 +6,7 @@
     </div>
     this is test!!!
     test qaweb
+    test4
     <router-view/>
   </div>
 </template>
