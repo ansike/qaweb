@@ -18,4 +18,5 @@ fi
 #mkdir /home/www/default/static/$APP_NAME
 
 \cp -r dist/* /home/www/default/static/$APP_NAME
-:
+
+echo "部署成功"
