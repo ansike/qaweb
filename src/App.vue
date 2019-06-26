@@ -5,6 +5,7 @@
       <router-link to="/about">About</router-link>
     </div>
     this is test!!!
+    test qaweb
     <router-view/>
   </div>
 </template>
