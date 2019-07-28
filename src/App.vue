@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    hhhh
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
@@ -9,6 +8,8 @@
     test qaweb
     test4
     test5
+    test6
+
     <router-view/>
   </div>
 </template>
